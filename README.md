@@ -7,7 +7,7 @@ based on [wsldl](https://github.com/yuk7/wsldl)
 ### Why
 CentOS 8 Stream has been released, but it does not provide a raw container image.
 
-Distributions based on another image already exists, so we recommend using them.
+Distributions based on another image already exists, so we recommend using them
 
 
 
